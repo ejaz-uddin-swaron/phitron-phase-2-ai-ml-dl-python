@@ -9,5 +9,3 @@ for i in range(rng):
     c += 1
     x += 1
     print()
-
-    
